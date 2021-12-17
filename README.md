@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranitkotkar
-- 👀 I’m a data science enthusiast.
+- 👀 I am a data science enthusiast who strives to build data-driven solutions for healthcare, finance, and social problems.
 - 🌱 I’m currently pursuing electronics and telecommunication engineering.
 - 📫 How to reach me: pranitkotkar09@gmail.com
 
