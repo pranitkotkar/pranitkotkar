@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranitkotkar
-- 👀 I am a data science enthusiast who strives to build data-driven solutions for healthcare, finance, and social problems.
-- 🌱 I’m currently pursuing electronics and telecommunication engineering.
+- 👀 I am a machine learning enthusiast who strives to build data-driven solutions for healthcare, finance, and social problems.
+- 🌱 I’m currently pursuing masters in computer science.
 - 📫 How to reach me: pranitkotkar09@gmail.com
 
 <!---
